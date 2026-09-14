@@ -10,7 +10,7 @@
 * 🔍 **Domains:** Memory internals, WinAPI, reverse engineering & security research
 * ✨ **Things I Like:** femboys, static analysis, breaking binaries, memory manipulation
 
-<small>*i didnt make this about section i only added the "femboys" part 😭*</small>
+<sub>*I didnt make the about part, only added the "femboys" part 😭*</sub>
 
 ---
 
@@ -23,13 +23,16 @@
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vistydev&theme=tokyonight&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vistydev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vistydev&theme=dark&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vistydev&theme=dark&hide_border=false&layout=compact" width="48%" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=vistydev&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=vistydev&theme=dark&hide_border=false" width="97%" />
 </p>
+
+<br />
+
 
 ---
 
