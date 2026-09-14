@@ -16,19 +16,14 @@
 
 ### 💻 Tech Stack
 
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows API](https://img.shields.io/badge/Windows%20API-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img height="145" src="https://github-readme-stats.vercel.app/api?username=vistydev&theme=dark&hide_border=true&show_icons=true" />
-  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vistydev&theme=dark&hide_border=true&layout=compact" />
-</p>
-
-<p align="left">
-  <img height="145" src="https://streak-stats.demolab.com/?user=vistydev&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=vistydev&theme=dark&hide_border=false" />
 </p>
 
 ---
