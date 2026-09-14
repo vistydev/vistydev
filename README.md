@@ -17,17 +17,3 @@
 ### 💻 Tech Stack
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
----
-
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=vistydev&theme=dark&hide_border=false" />
-</p>
-
----
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=vistydev&color=00599C&style=flat-square&label=Profile+Views" />
-</p>
