@@ -23,16 +23,13 @@
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vistydev&theme=dark&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vistydev&theme=dark&hide_border=false&layout=compact" width="48%" />
+  <img height="145" src="https://github-readme-stats.vercel.app/api?username=vistydev&theme=dark&hide_border=true&show_icons=true" />
+  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vistydev&theme=dark&hide_border=true&layout=compact" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=vistydev&theme=dark&hide_border=false" width="97%" />
+  <img height="145" src="https://streak-stats.demolab.com/?user=vistydev&theme=dark&hide_border=true" />
 </p>
-
-<br />
-
 
 ---
 
