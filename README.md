@@ -1,6 +1,6 @@
-# 👋 hi
+# 👋 Hi
 
-> **high level C++ user & reverse engineering student**
+> **high level C++ & reverse engineering student**
 
 ---
 
