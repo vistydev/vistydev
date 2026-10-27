@@ -1,16 +1,16 @@
-# 👋 im visty
+# 👋 hi
 
-> **medium level C++ lover & reverse engineering failure (fortunately it works)**
+> **high level C++ user & reverse engineering student**
 
 ---
 
-### ⚙️ About
+### About
 
-* 🛠️ **Core Languages:** C++
-* 🔍 **Domains:** Memory internals, WinAPI, reverse engineering & security research
-* ✨ **Things I Like:** femboys, static analysis, breaking binaries, memory manipulation
+*  **Core Languages:** C++
+*  **Domains:** Memory internals, WinAPI, reverse engineering & security research
+*  **Things I Like:** c++, memory manipulation, skidding to death
 
-<sub>*I didnt make the about part, only added the "femboys" part 😭*</sub>
+<sub>*feel free to dm me via discord verifiedvisty*</sub>
 
 ---
 
