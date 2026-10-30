@@ -1,19 +1,10 @@
-# 👋 Hi
+hi, i'm visty
 
-> **high level C++ & reverse engineering student**
+student from turkey. i mostly write c++, with some python, rust and typescript when a project needs it. i like taking things apart to see how they work: memory, winapi, reversing, and lately linux internals too.
 
----
+### projects
 
-### About
+- [viscord](https://github.com/vistydev/viscord): a discord client mod with its own settings tab, themes and badges
+- [pardus](https://github.com/pardus): reading through the system tools of the turkish linux distro and sending security and performance fixes. root services, polkit helpers, pam, the installer, eta boards. [my prs](https://github.com/search?q=org%3Apardus+author%3Avistydev&type=pullrequests)
 
-*  **Core Languages:** C++
-*  **Domains:** Memory internals, WinAPI, reverse engineering & security research
-*  **Things I Like:** c++, memory manipulation, skidding to death
-
-<sub>*feel free to dm me via discord verifiedvisty*</sub>
-
----
-
-### 💻 Tech Stack
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+discord: verifiedvisty
