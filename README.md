@@ -1,5 +1,7 @@
 hi, i'm visty
 
+**contributor to [pardus](https://github.com/pardus)** · [merged fixes](https://github.com/search?q=org%3Apardus+author%3Avistydev+is%3Amerged&type=pullrequests) in pardus-lightdm-greeter, pardus-boot-repair and pardus-package-installer
+
 student from turkey. my main languages are c++ and rust, and most of what i do comes down to taking software apart to see how it really works. memory, winapi, reversing, and lately linux internals too, since i moved to cachyos.
 
 ### what i like doing
